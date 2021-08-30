@@ -33,7 +33,7 @@
 
 
 ## Screenshots
-![Landing Page](../images/screenshot.png)
+![Landing Page](./src/images/screenshot.png)
 
 
 ## Acknowledgements
